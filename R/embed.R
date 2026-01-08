@@ -19,6 +19,7 @@
 #'     "I slept well and feel great today!",
 #'     "I saw from friends and it went well.",
 #'     "I think I failed that exam. I'm such a disappointment."
+#'     "I think I failed that exam. I'm such a disapointment."
 #'   )
 #' )
 #'

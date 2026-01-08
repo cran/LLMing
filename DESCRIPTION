@@ -1,6 +1,6 @@
 Package: LLMing
 Title: Large Language Model (LLM) Tools for Psychological Text Analysis
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: c(
     person("Lindley", "Slipetz", email = "ddj6tu@virginia.edu",
            role = c("aut", "cre")),
@@ -13,21 +13,23 @@ Maintainer: Lindley Slipetz <ddj6tu@virginia.edu>
 Description: A collection of large language model (LLM) text analysis methods
   designed with psychological data in mind. Currently, LLMing (aka "lemming")
   includes a text anomaly detection method based on the angle-based subspace
-  approach described by Zhang, Lin, and Karim (2015)
+  approach described by Zhang, Lin, and Karim (2015) and a text generation method.
   <doi:10.1016/j.ress.2015.05.025>.
 License: MIT + file LICENSE
 Encoding: UTF-8
 RoxygenNote: 7.3.3
 Imports: Rdpack, quanteda, stopwords, stringi, reticulate, text,
-        dbscan, pracma, stats
+        dbscan, pracma, stats, jsonlite
+SystemRequirements: Python (>= 3.10) with packages: torch,
+        transformers, pandas, numpy
 RdMacros: Rdpack
 URL: https://github.com/sliplr19/LLMing
 BugReports: https://github.com/sliplr19/LLMing/issues
 NeedsCompilation: no
-Packaged: 2025-10-16 16:16:03 UTC; ddj6tu
+Packaged: 2026-01-08 03:12:58 UTC; ddj6tu
 Author: Lindley Slipetz [aut, cre],
   Teague Henry [aut],
   Siqi Sun [ctb]
 Depends: R (>= 4.1.0)
 Repository: CRAN
-Date/Publication: 2025-10-21 17:50:06 UTC
+Date/Publication: 2026-01-08 05:20:13 UTC
