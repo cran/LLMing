@@ -127,6 +127,7 @@ repetition_penalty   = 1.0,
 model_name           = "sshleifer/tiny-gpt2",
 env                  = NULL   # No token needed
 )
+@export
 }
 \description{
 All prompt components and example texts are provided by the user as
