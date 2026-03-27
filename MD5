@@ -1,7 +1,7 @@
-b726852ce7ec9f4b0575794c111a8352 *DESCRIPTION
+00a3b7d5392d16bf67f5432c5564240f *DESCRIPTION
 7a40c66ed6a451d1bf3bd1eb2ae4f1ca *LICENSE
-b9917bd5082a69bd2e1c69b8932311b3 *NAMESPACE
-0814cb73fdb0e3cea908596e31ffb725 *NEWS.md
+52ce71740e30a2be18642376880948cd *NAMESPACE
+9474d8a1ab8e7633fa953d52def46c98 *NEWS.md
 6196db5edd94b4988bde0e146e3ed818 *R/G_thres.R
 e4746e441f308b0a6890d0c59f6da690 *R/LLMing-package.R
 da599c06af942808b13e135f5bea22e0 *R/embed.R
@@ -10,12 +10,12 @@ da599c06af942808b13e135f5bea22e0 *R/embed.R
 77dda40c42f5a13fb12950dbab18a22d *R/pCOS_row.R
 c1051fd1916b7ef1f334bbe44704fdcc *R/rep_set.R
 c62bb6dce23032510e66b04c25232d51 *R/sim_SNN.R
-0f32e6e74acd63dd4a77a91759bf4e00 *R/text_datagen.R
+c94a9c1c50d3d29f753a40dcc6c7c18e *R/text_datagen.R
 c42961d632f108f034021f5cc2e27f62 *R/textanomaly.R
 9048cb521df2eb8d0749cc911ab6c7cc *R/vector_SNN.R
 52179be485f31bd62515cd30762e407a *R/z_score.R
-0b78280c639d41bc462a91cf9c0bb026 *README.md
-9d5ee1bfea863c63383cd4a1bae07c70 *build/partial.rdb
+daf0db93dedc47b733c446d1a9c07aaf *README.md
+ae9c961882046d72817c8c81c9fbd844 *build/partial.rdb
 1b74c3a43111cce6003ba6e9afe605da *inst/REFERENCES.bib
 d41d8cd98f00b204e9800998ecf8427e *inst/REFERENCES.bib.sav.tmp
 32a326421e6b6fcdcd411549733f364b *inst/python/text_datagen.py
@@ -28,7 +28,7 @@ a822f5562d803d0325552d8866447ce4 *man/normahalo.Rd
 7c67c1f1347432234f8a5d735e5fce31 *man/pCOS_row.Rd
 7fec97e1c367a032784d74b96cddcd95 *man/rep_set.Rd
 c095c6cbd0a35eb57a7858df8d7cad48 *man/sim_SNN.Rd
-d05a3ec6de13da074e48a91d6b2978e3 *man/text_datagen.Rd
+762594a04d7c2274b4674c15f4089ff9 *man/text_datagen.Rd
 5904f6ed342e808003e009e2b3b51c3e *man/textanomaly.Rd
 699b62bc3fc9af032cbf8a53a2a10e08 *man/vector_SNN.Rd
 7390a7a2c10b1bfaff0e3fdf9bc8f483 *man/z_score.Rd
